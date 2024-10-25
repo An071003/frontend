@@ -1,0 +1,28 @@
+.header{
+    background-color: rgb(54, 54, 72);
+}
+
+.Logo {
+    width: 28px;
+    height: 28px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+.list {
+    margin-right: 50px;
+    padding-left: 0;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+}
+
+/* Nếu cần điều chỉnh thêm */
+.navbar {
+    position: relative; /* Đặt vị trí tương đối cho navbar */
+}

@@ -1,0 +1,26 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v20.18.0
+3 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:c:\Users\ADMIN\Downloads\Trung\QLNET\frontend\.npmrc
+5 silly config load:file:C:\Users\ADMIN\.npmrc
+6 silly config load:file:C:\Users\ADMIN\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm view web-vitals description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "web-vitals" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:C:\Users\ADMIN\Downloads\Trung\QLNET\frontend\UsersADMINAppDataRoamingnpm-cache\_logs\2024-10-24T13_09_15_601Z-
+10 verbose logfile C:\Users\ADMIN\Downloads\Trung\QLNET\frontend\UsersADMINAppDataRoamingnpm-cache\_logs\2024-10-24T13_09_15_601Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 silly logfile error removing log file C:\Users\ADMIN\Downloads\Trung\QLNET\frontend\UsersADMINAppDataRoamingnpm-cache\_logs\2024-10-24T13_04_52_652Z-debug-0.log [Error: EPERM: operation not permitted, lstat 'C:\Users\ADMIN\Downloads\Trung\QLNET\frontend\UsersADMINAppDataRoamingnpm-cache\_logs\2024-10-24T13_04_52_652Z-debug-0.log'] {
+12 silly logfile   errno: -4048,
+12 silly logfile   code: 'EPERM',
+12 silly logfile   syscall: 'lstat',
+12 silly logfile   path: 'C:\\Users\\ADMIN\\Downloads\\Trung\\QLNET\\frontend\\UsersADMINAppDataRoamingnpm-cache\\_logs\\2024-10-24T13_04_52_652Z-debug-0.log'
+12 silly logfile }
+13 silly logfile done cleaning log files
+14 http fetch GET 200 https://registry.npmjs.org/web-vitals 252ms (cache revalidated)
+15 verbose cwd c:\Users\ADMIN\Downloads\Trung\QLNET\frontend
+16 verbose os Windows_NT 10.0.22631
+17 verbose node v20.18.0
+18 verbose npm  v10.9.0
+19 verbose exit 0
+20 info ok

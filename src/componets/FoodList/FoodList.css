@@ -1,0 +1,37 @@
+.listfood{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.navigation{
+    padding: 5px;
+}
+
+.listnav{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 79em;
+}
+
+.listnav.navigation {
+    transition: all 0.3s;
+    z-index: 10;
+  }
+  
+  .nav-default {
+    position: relative;
+    background-color: transparent;
+    color: black;
+  }
+  
+  .nav-scrolled {
+    position: fixed;
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .nav-scrolled {
+    top: var(--header-height);
+  }
+  
